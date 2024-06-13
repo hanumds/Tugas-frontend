@@ -1,0 +1,30 @@
+{
+  "stuff": [
+    {
+      "id": "946a",
+      "name": "Orange",
+      "price": "90",
+      "category": "Fruit"
+    },
+    {
+      "id": "24aa",
+      "name": "Anggur",
+      "price": "45",
+      "category": "Fruit"
+    }
+  ],
+  "category": [
+    {
+      "id": "946a",
+      "name": "Fruit"
+    },
+    {
+      "id": "9c9b",
+      "name": "Buah"
+    },
+    {
+      "id": "591d",
+      "name": "Sayuran"
+    }
+  ]
+}
